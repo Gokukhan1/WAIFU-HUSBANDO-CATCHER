@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    OWNER_ID = "7078181502"
+    sudo_users = "5884969921", "6961287189"
+    GROUP_ID = -1002009280180
+    TOKEN = "7070617268:AAHIktRsnSY1coCeYh32MFwTrbCGAyfgg3w"
+    mongo_url = "mongodb+srv://I-LOVE-PDF-BOT:I-LOVE-PDF-BOT@cluster0.c51o3a9.mongodb.net/?retryWrites=true&w=majority"
+    PHOTO_URL = ["https://telegra.ph/file/c9744c30554b46644a800.jpg", "https://telegra.ph/file/77fd10eeccd16912ccf5b.jpg"]
+    SUPPORT_CHAT = "https://t.me/lolpagalokigc"
+    UPDATE_CHAT = "https://t.me/mlohvdryj"
+    BOT_USERNAME = "bulma_music_bot"
+    CHARA_CHANNEL_ID = "-1002009280180"
+    api_id = 23255238
+    api_hash = "009e3d8c1bdc89d5387cdd8fd182ec15"
 
     
 class Production(Config):
